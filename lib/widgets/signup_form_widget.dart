@@ -11,7 +11,7 @@ import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:loader_overlay/loader_overlay.dart';
 import 'package:user_web/constant.dart';
-import 'package:user_web/Providers/auth.dart';
+import 'package:user_web/providers/auth.dart';
 
 class SignupFormWidget extends StatefulWidget {
   const SignupFormWidget({super.key});

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:user_web/constant.dart';
-import 'package:user_web/Providers/auth.dart';
+import 'package:user_web/providers/auth.dart';
 
 class WebMenu extends StatefulWidget {
   final String path;

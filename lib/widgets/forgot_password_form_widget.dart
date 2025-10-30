@@ -7,7 +7,7 @@ import 'package:flutter_form_builder/flutter_form_builder.dart';
 import 'package:gap/gap.dart';
 import 'package:loader_overlay/loader_overlay.dart';
 import 'package:user_web/constant.dart';
-import 'package:user_web/Providers/auth.dart';
+import 'package:user_web/providers/auth.dart';
 
 class ForgotPasswordFormWidget extends StatefulWidget {
   const ForgotPasswordFormWidget({super.key});
