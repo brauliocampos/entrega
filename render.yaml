@@ -1,0 +1,7 @@
+services:
+  - type: static
+    name: flutter-web
+    env: static
+    buildCommand: flutter build web
+    staticPublishPath: build/web
+    pullRequestPreviewsEnabled: true
